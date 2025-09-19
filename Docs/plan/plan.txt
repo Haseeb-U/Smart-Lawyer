@@ -1,0 +1,58 @@
+📌 Phase 1 – Planning & Setup
+•	Define project scope, goals, and deliverables.
+•	Assign team roles & responsibilities.
+•	Prepare project timeline (Gantt chart).
+•	Set up version control (GitHub/Git).
+•	Configure development environments (MERN, APIs, DB).
+📌 Phase 2 – Data Acquisition
+•	Identify legal sources (Pakistan Code, gazettes, judgments).
+•	Collect digital documents (PDFs, HTML pages).
+•	Apply web scraping (Cheerio/Puppeteer) for online content.
+•	Apply OCR (Tesseract, PyMuPDF) for scanned gazettes.
+•	Store raw data for preprocessing.
+📌 Phase 3 – Data Preprocessing
+•	Clean legal texts (remove headers, page numbers, artifacts).
+•	Standardize formatting (laws, sections, judgments).
+•	Chunk text into smaller segments (sections/paragraphs).
+•	Create bilingual (Urdu/English) structured dataset.
+📌 Phase 4 – Embeddings & Database
+•	Generate embeddings using Hugging Face API (multilingual model).
+•	Store embeddings + metadata (court, year, section) in Qdrant.
+•	Integrate MongoDB Atlas for user queries & logs.
+•	Test semantic search on sample queries.
+📌 Phase 5 – Core AI Pipeline (RAG)
+•	Implement query-to-embedding conversion.
+•	Retrieve relevant chunks from Qdrant.
+•	Connect to Google Gemini API for LLM response generation.
+•	Format responses with citations + summaries.
+•	Test bilingual queries (English & Urdu).
+📌 Phase 6 – Backend Development
+•	Develop REST APIs (Node.js + Express).
+•	Connect APIs to vector DB (Qdrant) and MongoDB.
+•	Implement authentication & query logging.
+•	Optimize API for performance (low latency).
+📌 Phase 7 – Frontend Development
+•	Design UI/UX wireframes (React).
+•	Implement query interface (search bar).
+•	Display results with citations & filters (court, year, section).
+•	Add summaries & document previews.
+•	Connect frontend to backend APIs.
+📌 Phase 8 – Testing & Evaluation
+•	Functional testing (frontend, backend, DB).
+•	Accuracy testing (precision, recall, F1 ≥ 85%).
+•	Performance testing (response time under load).
+•	User testing (lawyers, students, supervisors).
+•	Collect feedback and refine system.
+📌 Phase 9 – Documentation & Reporting
+•	Maintain development logs & design docs.
+•	Write user manual & system guide.
+•	Prepare interim FYP reports (progress reviews).
+•	Write final report (implementation, results, future work).
+•	Prepare presentation/demo materials.
+📌 Phase 10 – Deployment & Finalization
+•	Deploy frontend on Vercel.
+•	Deploy backend APIs on Render.
+•	Connect to MongoDB Atlas & Qdrant Cloud.
+•	Conduct final end-to-end system testing.
+•	Deliver FYP presentation & demonstration.
+
