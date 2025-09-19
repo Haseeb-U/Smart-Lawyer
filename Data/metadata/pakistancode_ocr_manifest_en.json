@@ -1,0 +1,698 @@
+{
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Abandoned Properties (Management) Act, 1975.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Abandoned Properties (Management) Act, 1975.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Abandoned Properties (Management) Act, 1975.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Acting as Agents of Moallims (Prohibition) Ordinance, 1980.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Acting as Agents of Moallims (Prohibition) Ordinance, 1980.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Acting as Agents of Moallims (Prohibition) Ordinance, 1980.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Agricultural Pesticides Ordinance, 1971.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Agricultural Pesticides Ordinance, 1971.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Agricultural Pesticides Ordinance, 1971.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Anti-Dumping Duties Ordinance, 2000 (Repealed by Act XIV of 2015).pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Anti-Dumping Duties Ordinance, 2000 (Repealed by Act XIV of 2015).pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Anti-Dumping Duties Ordinance, 2000 (Repealed by Act XIV of 2015).txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Arbitration Act, 1940.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Arbitration Act, 1940.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Arbitration Act, 1940.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Births, Deaths and Marriages Registration Act, 1886.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Births, Deaths and Marriages Registration Act, 1886.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Births, Deaths and Marriages Registration Act, 1886.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Canal and Drainage Act,1873.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Canal and Drainage Act,1873.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Canal and Drainage Act,1873.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Cantonments (Requisitioning of Immoveable Property) Ordinance, 1948.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Cantonments (Requisitioning of Immoveable Property) Ordinance, 1948.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Cantonments (Requisitioning of Immoveable Property) Ordinance, 1948.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Cantonments Pure Food Act, 1966.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Cantonments Pure Food Act, 1966.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Cantonments Pure Food Act, 1966.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Cantonments Rent Restriction Act, 1963.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Cantonments Rent Restriction Act, 1963.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Cantonments Rent Restriction Act, 1963.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Capital of the Republic (Determination of Area) Ordinance, 1963.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Capital of the Republic (Determination of Area) Ordinance, 1963.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Capital of the Republic (Determination of Area) Ordinance, 1963.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Carriage of Goods by Sea Act, 1925.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Carriage of Goods by Sea Act, 1925.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Carriage of Goods by Sea Act, 1925.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Carriers Act, 1865.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Carriers Act, 1865.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Carriers Act, 1865.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Caste Disabilities Removal Act, 1850.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Caste Disabilities Removal Act, 1850.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Caste Disabilities Removal Act, 1850.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Charitable and Religious Trusts Act, 1920.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Charitable and Religious Trusts Act, 1920.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Charitable and Religious Trusts Act, 1920.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Charitable Endowments Act, 1890.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Charitable Endowments Act, 1890.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Charitable Endowments Act, 1890.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Charitable Funds (Regulation of Collections) Act, 1953.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Charitable Funds (Regulation of Collections) Act, 1953.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Charitable Funds (Regulation of Collections) Act, 1953.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Chemical Fertilizers (Development Surcharge) Act, 1973.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Chemical Fertilizers (Development Surcharge) Act, 1973.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Chemical Fertilizers (Development Surcharge) Act, 1973.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Civil Aviation Ordinance, 1960.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Civil Aviation Ordinance, 1960.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Civil Aviation Ordinance, 1960.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Code of Civil Procedure (CPC) , 1908 (Under Review).pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Code of Civil Procedure (CPC) , 1908 (Under Review).pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Code of Civil Procedure (CPC) , 1908 (Under Review).txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Conciliation Courts Ordinance, 1961.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Conciliation Courts Ordinance, 1961.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Conciliation Courts Ordinance, 1961.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Contract Act, 1872.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Contract Act, 1872.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Contract Act, 1872.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Cooperative Farming Act, 1976.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Cooperative Farming Act, 1976.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Cooperative Farming Act, 1976.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Cooperative Societies (Repayment of Loans) Ordinance, 1960.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Cooperative Societies (Repayment of Loans) Ordinance, 1960.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Cooperative Societies (Repayment of Loans) Ordinance, 1960.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Countervailing Duties Ordinance, 2001(Repealed by Act XIII of 2015).pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Countervailing Duties Ordinance, 2001(Repealed by Act XIII of 2015).pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Countervailing Duties Ordinance, 2001(Repealed by Act XIII of 2015).txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Court-Fees Act, 1870.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Court-Fees Act, 1870.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Court-Fees Act, 1870.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Diplomatic and Consular Officers (Oaths and Fees) Act, 1948.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Diplomatic and Consular Officers (Oaths and Fees) Act, 1948.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Diplomatic and Consular Officers (Oaths and Fees) Act, 1948.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Diplomatic and Consular Privileges Act, 1972.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Diplomatic and Consular Privileges Act, 1972.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Diplomatic and Consular Privileges Act, 1972.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Diplomatic Immunities (Common wealth Countries Representatives), Act, 1957.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Diplomatic Immunities (Common wealth Countries Representatives), Act, 1957.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Diplomatic Immunities (Common wealth Countries Representatives), Act, 1957.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Diplomatic Immunities (Conferences with Common wealth Countries) Act, 1963.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Diplomatic Immunities (Conferences with Common wealth Countries) Act, 1963.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Diplomatic Immunities (Conferences with Common wealth Countries) Act, 1963.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Dramatic Performances Act, 1876.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Dramatic Performances Act, 1876.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Dramatic Performances Act, 1876.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Easements Act, 1882.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Easements Act, 1882.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Easements Act, 1882.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Enemy Property (Continuance of Emergency Provisions) Ordinance, 1969.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Enemy Property (Continuance of Emergency Provisions) Ordinance, 1969.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Enemy Property (Continuance of Emergency Provisions) Ordinance, 1969.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Evacuee Trust Properties (Management and Disposal) Act, 1975.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Evacuee Trust Properties (Management and Disposal) Act, 1975.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Evacuee Trust Properties (Management and Disposal) Act, 1975.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Fatal Accidents Act, 1855.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Fatal Accidents Act, 1855.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Fatal Accidents Act, 1855.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Foreign Exchange (Temporary Restrictions) Act, 1998.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Foreign Exchange (Temporary Restrictions) Act, 1998.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Foreign Exchange (Temporary Restrictions) Act, 1998.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Foreigners Act, 1946.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Foreigners Act, 1946.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Foreigners Act, 1946.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\General Clauses Act, 1897.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\General Clauses Act, 1897.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\General Clauses Act, 1897.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Government Tenants (North-West Frontier) Act, 1893.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Government Tenants (North-West Frontier) Act, 1893.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Government Tenants (North-West Frontier) Act, 1893.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Import of Goods (Price Equalization Surcharge) Act, 1967.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Import of Goods (Price Equalization Surcharge) Act, 1967.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Import of Goods (Price Equalization Surcharge) Act, 1967.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Intellectual Property Organization of Pakistan Act, 2012.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Intellectual Property Organization of Pakistan Act, 2012.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Intellectual Property Organization of Pakistan Act, 2012.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Interest Act 1839.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Interest Act 1839.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Interest Act 1839.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Islamabad Consumers Protection Act, 1995.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Islamabad Consumers Protection Act, 1995.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Islamabad Consumers Protection Act, 1995.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Legal Representatives\u00b4 Suits Act, 1855.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Legal Representatives\u00b4 Suits Act, 1855.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Legal Representatives\u00b4 Suits Act, 1855.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Limitation (Emergency and War Conditions) Act, 1965.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Limitation (Emergency and War Conditions) Act, 1965.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Limitation (Emergency and War Conditions) Act, 1965.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Limitation Act, 1908.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Limitation Act, 1908.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Limitation Act, 1908.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Majority Act, 1875.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Majority Act, 1875.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Majority Act, 1875.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Marriages Validation Act, 1892.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Marriages Validation Act, 1892.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Marriages Validation Act, 1892.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Merchant Shipping Ordinance, 2001.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Merchant Shipping Ordinance, 2001.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Merchant Shipping Ordinance, 2001.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Mesne Profits and Improvements Act, 1855.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Mesne Profits and Improvements Act, 1855.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Mesne Profits and Improvements Act, 1855.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Multi-unit Co-operative Societies Act, 1942.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Multi-unit Co-operative Societies Act, 1942.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Multi-unit Co-operative Societies Act, 1942.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Mussalman Wakf Validating Act, 1913.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Mussalman Wakf Validating Act, 1913.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Mussalman Wakf Validating Act, 1913.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\National Highway Authority (NHA) Act, 1991.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\National Highway Authority (NHA) Act, 1991.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\National Highway Authority (NHA) Act, 1991.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\National Highways Safety Ordinance, 2000.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\National Highways Safety Ordinance, 2000.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\National Highways Safety Ordinance, 2000.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\National Zakat Foundation (Merger in Bait-ul-Mal) Ordinance, 2001.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\National Zakat Foundation (Merger in Bait-ul-Mal) Ordinance, 2001.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\National Zakat Foundation (Merger in Bait-ul-Mal) Ordinance, 2001.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Natural Gas (Development Surcharge) Ordinance, 1967.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Natural Gas (Development Surcharge) Ordinance, 1967.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Natural Gas (Development Surcharge) Ordinance, 1967.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Naturalization Act, 1926.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Naturalization Act, 1926.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Naturalization Act, 1926.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Negotiable Instruments Act, 1881.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Negotiable Instruments Act, 1881.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Negotiable Instruments Act, 1881.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Notaries Ordinance, 1961.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Notaries Ordinance, 1961.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Notaries Ordinance, 1961.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Oath Act, 1873.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Oath Act, 1873.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Oath Act, 1873.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Pakistan Citizenship Act, 1951.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Pakistan Citizenship Act, 1951.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Pakistan Citizenship Act, 1951.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Pakistan Coinage Act,1906.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Pakistan Coinage Act,1906.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Pakistan Coinage Act,1906.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Pakistan Currency Act, 1950.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Pakistan Currency Act, 1950.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Pakistan Currency Act, 1950.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Pakistan Environmental Protection Act, 1997.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Pakistan Environmental Protection Act, 1997.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Pakistan Environmental Protection Act, 1997.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Pakistan Telecommunication (Re-organization) Act, 1996.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Pakistan Telecommunication (Re-organization) Act, 1996.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Pakistan Telecommunication (Re-organization) Act, 1996.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Pakistan Tourist Guides Act, 1976.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Pakistan Tourist Guides Act, 1976.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Pakistan Tourist Guides Act, 1976.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Partition Act, 1893.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Partition Act, 1893.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Partition Act, 1893.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Partnership Act, 1932.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Partnership Act, 1932.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Partnership Act, 1932.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Passports Act, 1974.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Passports Act, 1974.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Passports Act, 1974.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Patents Ordinance, 2000.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Patents Ordinance, 2000.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Patents Ordinance, 2000.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Port Authorities Lands And Buildings (Recovery Of Possession) Ordinance, 1962.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Port Authorities Lands And Buildings (Recovery Of Possession) Ordinance, 1962.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Port Authorities Lands And Buildings (Recovery Of Possession) Ordinance, 1962.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Ports Act, 1908.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Ports Act, 1908.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Ports Act, 1908.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Powers-of-Attorney Act, 1882.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Powers-of-Attorney Act, 1882.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Powers-of-Attorney Act, 1882.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Price Control and Prevention of Profiteering and Hoarding Act, 1977.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Price Control and Prevention of Profiteering and Hoarding Act, 1977.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Price Control and Prevention of Profiteering and Hoarding Act, 1977.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Private Security Companies Ordinance, 2001.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Private Security Companies Ordinance, 2001.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Private Security Companies Ordinance, 2001.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Protection of Ports (Special Measures) Act, 1948.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Protection of Ports (Special Measures) Act, 1948.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Protection of Ports (Special Measures) Act, 1948.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Provincial Industrial Development Corporation (West Pakistan) Ordinance, 1962.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Provincial Industrial Development Corporation (West Pakistan) Ordinance, 1962.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Provincial Industrial Development Corporation (West Pakistan) Ordinance, 1962.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Public Accountants\u00b4 Default Act, 1850.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Public Accountants\u00b4 Default Act, 1850.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Public Accountants\u00b4 Default Act, 1850.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Public Debt, Act, 1944.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Public Debt, Act, 1944.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Public Debt, Act, 1944.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Public Investments (Financial Safeguards) Ordinance, 1960.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Public Investments (Financial Safeguards) Ordinance, 1960.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Public Investments (Financial Safeguards) Ordinance, 1960.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Punjab Laws Act, 1872.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Punjab Laws Act, 1872.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Punjab Laws Act, 1872.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Railway Stores (Unlawful Possession) Ordinance, 1944.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Railway Stores (Unlawful Possession) Ordinance, 1944.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Railway Stores (Unlawful Possession) Ordinance, 1944.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Railways (Transport of Goods) Act, 1947.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Railways (Transport of Goods) Act, 1947.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Railways (Transport of Goods) Act, 1947.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Recusant Witnesses Act, 1853.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Recusant Witnesses Act, 1853.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Recusant Witnesses Act, 1853.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Registration Act, 1908.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Registration Act, 1908.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Registration Act, 1908.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Regulation of Mines and Oil Fields and Mineral Development (Federal Control) Act, 1948.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Regulation of Mines and Oil Fields and Mineral Development (Federal Control) Act, 1948.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Regulation of Mines and Oil Fields and Mineral Development (Federal Control) Act, 1948.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Religious Societies Act, 1880.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Religious Societies Act, 1880.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Religious Societies Act, 1880.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Revenue Recovery Act, 1890.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Revenue Recovery Act, 1890.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Revenue Recovery Act, 1890.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Revocation of Privileges Act, 1992.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Revocation of Privileges Act, 1992.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Revocation of Privileges Act, 1992.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Sale of Goods Act, 1930.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Sale of Goods Act, 1930.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Sale of Goods Act, 1930.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Sarais Act, 1867.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Sarais Act, 1867.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Sarais Act, 1867.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Securities Act, 1920.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Securities Act, 1920.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Securities Act, 1920.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Seed Act, 1976.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Seed Act, 1976.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Seed Act, 1976.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Settlement Commissioners (Validation of Orders) Act, 1972.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Settlement Commissioners (Validation of Orders) Act, 1972.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Settlement Commissioners (Validation of Orders) Act, 1972.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Short Titles Act, 1973.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Short Titles Act, 1973.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Short Titles Act, 1973.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Sindh Incumbered Estates Act, 1896.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Sindh Incumbered Estates Act, 1896.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Sindh Incumbered Estates Act, 1896.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Small Claims and Minor Offences Courts Ordinance, 2002.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Small Claims and Minor Offences Courts Ordinance, 2002.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Small Claims and Minor Offences Courts Ordinance, 2002.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Societies Registration Act, 1860.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Societies Registration Act, 1860.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Societies Registration Act, 1860.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Soldiers (Litigation) Act, 1925.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Soldiers (Litigation) Act, 1925.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Soldiers (Litigation) Act, 1925.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Specific Relief Act, 1877.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Specific Relief Act, 1877.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Specific Relief Act, 1877.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Stamp Act, 1899.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Stamp Act, 1899.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Stamp Act, 1899.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Standards of Weight Act, 1939.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Standards of Weight Act, 1939.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Standards of Weight Act, 1939.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\State Immunity Ordinance, 1981.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\State Immunity Ordinance, 1981.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\State Immunity Ordinance, 1981.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Succession Act, 1925.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Succession Act, 1925.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Succession Act, 1925.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Suits Valuation Act, 1887.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Suits Valuation Act, 1887.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Suits Valuation Act, 1887.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Territorial Waters and Maritime Zones Act, 1976 (Repealed by Act.XVIII of 2023).pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Territorial Waters and Maritime Zones Act, 1976 (Repealed by Act.XVIII of 2023).pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Territorial Waters and Maritime Zones Act, 1976 (Repealed by Act.XVIII of 2023).txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Trade Marks Ordinance, 2001.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Trade Marks Ordinance, 2001.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Trade Marks Ordinance, 2001.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Trade Organizations Act, 2013.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Trade Organizations Act, 2013.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Trade Organizations Act, 2013.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Transfer of Evacuee Deposits Act, 1956.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Transfer of Evacuee Deposits Act, 1956.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Transfer of Evacuee Deposits Act, 1956.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Transfer of Evacuee Land (Katchi Abadi) Act, 1972.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Transfer of Evacuee Land (Katchi Abadi) Act, 1972.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Transfer of Evacuee Land (Katchi Abadi) Act, 1972.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Transfer of Property Act, 1882.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Transfer of Property Act, 1882.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Transfer of Property Act, 1882.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Travel Agencies Act, 1976.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Travel Agencies Act, 1976.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Travel Agencies Act, 1976.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Tribal Areas (Restoration of Judisdiction) Act, 1964.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Tribal Areas (Restoration of Judisdiction) Act, 1964.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Tribal Areas (Restoration of Judisdiction) Act, 1964.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Trust Act, 1882.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Trust Act, 1882.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Trust Act, 1882.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Validation of Laws Act, 1975.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Validation of Laws Act, 1975.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Validation of Laws Act, 1975.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  },
+  "D:\\HSB\\IBA\\FYP\\Smart-Lawyer\\Data\\raw\\pakistancode_civil_pdfs_en\\Voluntary Social Welfare Agencies (Registration and Control) Ordinance, 1961.pdf": {
+    "pdf": "Data\\raw\\pakistancode_civil_pdfs_en\\Voluntary Social Welfare Agencies (Registration and Control) Ordinance, 1961.pdf",
+    "text_path": "Data\\in-progress(interim)\\pakistancode_civil_text_en\\Voluntary Social Welfare Agencies (Registration and Control) Ordinance, 1961.txt",
+    "method": "pymupdf",
+    "status": "processed"
+  }
+}

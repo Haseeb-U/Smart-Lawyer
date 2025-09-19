@@ -38,6 +38,9 @@ bower_components
 build/Release
 
 # Dependency directories
+/Data/raw/
+/Data/in-progress(interim)/
+.venv/
 node_modules/
 jspm_packages/
 

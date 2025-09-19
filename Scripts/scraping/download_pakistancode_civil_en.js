@@ -17,19 +17,30 @@ const crypto = require('crypto');
 const START_URL = 'https://pakistancode.gov.pk/english/LGu0xVD-apaUY2Fqa-aw%3D%3D&action=primary&catid=2';
 const BASE = 'https://pakistancode.gov.pk';
 
-const OUT_DIR = path.resolve(__dirname, '..', '..', 'Data', 'raw', 'pakistancode', 'civil_en');
+const OUT_DIR = path.resolve(__dirname, '..', '..', 'Data', 'raw', 'pakistancode_civil_pdfs_en');
 const META_DIR = path.resolve(__dirname, '..', '..', 'Data', 'metadata');
 const MANIFEST_PATH = path.join(META_DIR, 'pakistancode_civil_manifest_en.json');
 const ERROR_LOG = path.join(META_DIR, 'download_errors_en.log');
 
 const CONCURRENCY = 3;
 
-async function nowISO() {
-  return new Date().toISOString();
+
+function now12Hour() {
+  const d = new Date();
+  let hours = d.getHours();
+  const minutes = d.getMinutes().toString().padStart(2, '0');
+  const seconds = d.getSeconds().toString().padStart(2, '0');
+  const ampm = hours >= 12 ? 'PM' : 'AM';
+  hours = hours % 12;
+  hours = hours ? hours : 12;
+  const month = (d.getMonth() + 1).toString().padStart(2, '0');
+  const day = d.getDate().toString().padStart(2, '0');
+  const year = d.getFullYear();
+  return `${year}-${month}-${day} ${hours}:${minutes}:${seconds} ${ampm}`;
 }
 
 async function appendErrorLog(entry) {
-  const line = `[${await nowISO()}] ${entry}\n`;
+  const line = `[${now12Hour()}] ${entry}\n`;
   await fs.appendFile(ERROR_LOG, line, 'utf8');
 }
 
@@ -85,7 +96,15 @@ async function main() {
   // Get all law page links (relative hrefs, likely law pages)
   const lawPages = await page.$$eval('a', as =>
     as
-      .filter(a => a.getAttribute('href') && !a.getAttribute('href').startsWith('http') && !a.getAttribute('href').startsWith('/'))
+      .filter(a => {
+        const href = a.getAttribute('href');
+        return (
+          href &&
+          !href.startsWith('http') &&
+          !href.startsWith('/') &&
+          href.startsWith('UY2FqaJw1-apaUY2Fqa')
+        );
+      })
       .map(a => {
         const rawHref = a.getAttribute('href');
         const fullHref = rawHref.startsWith('/english/')
@@ -142,8 +161,9 @@ async function main() {
         }
 
         const resolvedPdfUrl = pdfHref.startsWith('http') ? pdfHref : new URL(pdfHref, BASE).href;
-        const cleanName = sanitize(`${item.text}_${path.basename(resolvedPdfUrl)}`).slice(0, 180);
-        const outFile = path.join(OUT_DIR, cleanName.endsWith('.pdf') ? cleanName : cleanName + '.pdf');
+        // Remove address/hash from filename, only use sanitized title + .pdf
+        const cleanName = sanitize(item.text).slice(0, 180) + '.pdf';
+        const outFile = path.join(OUT_DIR, cleanName);
 
         console.log('[download]', item.text);
         let downloadedMeta;
@@ -158,25 +178,28 @@ async function main() {
           return;
         }
 
+        // Store local_path as relative to project root
+        const relOutFile = path.relative(path.resolve(__dirname, '..', '..'), outFile).replace(/\\/g, '/');
+
         manifest[key] = {
           title: item.text,
           law_page: item.href,
           pdf_url: resolvedPdfUrl,
-          local_path: outFile,
+          local_path: relOutFile,
           size: downloadedMeta.size,
           sha256: downloadedMeta.sha256,
           status: 'downloaded',
-          downloaded_at: await nowISO()
+          downloaded_at: now12Hour()
         };
 
         await lawPage.close();
         await fs.writeJson(MANIFEST_PATH, manifest, { spaces: 2 });
       } catch (err) {
-        const errMsg = `General error: ${item.href} | error: ${err.message}`;
-        console.error('[err]', errMsg);
-        await appendErrorLog(errMsg);
-        manifest[key] = { title: item.text, law_page: item.href, status: 'error', error: err.message, checked_at: await nowISO() };
-        await fs.writeJson(MANIFEST_PATH, manifest, { spaces: 2 });
+  const errMsg = `General error: ${item.href} | error: ${err.message}`;
+  console.error('[err]', errMsg);
+  await appendErrorLog(errMsg);
+  manifest[key] = { title: item.text, law_page: item.href, status: 'error', error: err.message, checked_at: now12Hour() };
+  await fs.writeJson(MANIFEST_PATH, manifest, { spaces: 2 });
       }
     })
   );

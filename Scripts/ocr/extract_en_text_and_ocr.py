@@ -14,9 +14,10 @@ import io, os, json
 from pathlib import Path
 
 # Paths
-IN_DIR = Path("Data/raw/pakistancode/civil_en")
-OUT_DIR = Path("Data/in-progress(interim)/pakistancode_text_en")
-META = Path("Data/metadata/pakistancode_ocr_manifest_en.json")
+BASE_DIR = Path(__file__).resolve().parent.parent.parent  # Smart-Lawyer root
+IN_DIR = BASE_DIR / "Data/raw/pakistancode_civil_pdfs_en"
+OUT_DIR = BASE_DIR / "Data/in-progress(interim)/pakistancode_civil_text_en"
+META = BASE_DIR / "Data/metadata/pakistancode_ocr_manifest_en.json"
 TESS_LANG = "eng"  # For Urdu later: "eng+urd"
 
 OUT_DIR.mkdir(parents=True, exist_ok=True)
@@ -46,8 +47,8 @@ def process_pdf(pdf_path: Path):
             out_txt = OUT_DIR / (pdf_path.stem + ".txt")
             out_txt.write_text(extracted, encoding="utf-8")
             manifest[key] = {
-                "pdf": str(pdf_path),
-                "text_path": str(out_txt),
+                "pdf": str(pdf_path.relative_to(BASE_DIR)),
+                "text_path": str(out_txt.relative_to(BASE_DIR)),
                 "method": "pymupdf",
                 "status": "processed"
             }
@@ -67,8 +68,8 @@ def process_pdf(pdf_path: Path):
         out_txt = OUT_DIR / (pdf_path.stem + ".txt")
         out_txt.write_text(full_text, encoding="utf-8")
         manifest[key] = {
-            "pdf": str(pdf_path),
-            "text_path": str(out_txt),
+            "pdf": str(pdf_path.relative_to(BASE_DIR)),
+            "text_path": str(out_txt.relative_to(BASE_DIR)),
             "method": "tesseract",
             "status": "processed"
         }
@@ -76,15 +77,20 @@ def process_pdf(pdf_path: Path):
     except Exception as e:
         print("❌ Error processing:", pdf_path.name, "|", e)
         manifest[key] = {
-            "pdf": str(pdf_path),
+            "pdf": str(pdf_path.relative_to(BASE_DIR)),
             "error": str(e),
             "status": "error"
         }
 
+    META.parent.mkdir(parents=True, exist_ok=True)
     META.write_text(json.dumps(manifest, indent=2), encoding="utf-8")
 
 for pdf_file in sorted(IN_DIR.glob("*.pdf")):
     process_pdf(pdf_file)
+
+# Ensure manifest is written at the end as well
+META.parent.mkdir(parents=True, exist_ok=True)
+META.write_text(json.dumps(manifest, indent=2), encoding="utf-8")
 
 print("📂 Outputs saved in:", OUT_DIR)
 print("📝 Manifest updated:", META)
